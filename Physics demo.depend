@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1416780000 source:c:\users\travis\desktop\projects\physics engine\canimation.cpp
+	"CAnimation.h"
+
+1416780023 c:\users\travis\desktop\projects\physics engine\canimation.h
+	<SDL.h>
+
+1429504379 source:c:\users\travis\desktop\projects\physics engine\capp.cpp
+	"CApp.h"
+
+1444805562 c:\users\travis\desktop\projects\physics engine\capp.h
+	<SDL.h>
+	"Define.h"
+	"CSurface.h"
+	"CEvent.h"
+	"CAnimation.h"
+	"CEntity.h"
+	"CCamera.h"
+	"CPlayer.h"
+	"CContact.h"
+
+1429506114 c:\users\travis\desktop\projects\physics engine\define.h
+
+1418583830 c:\users\travis\desktop\projects\physics engine\csurface.h
+	<SDL.h>
+	<SDL_image.h>
+
+1416600624 c:\users\travis\desktop\projects\physics engine\cevent.h
+	<SDL.h>
+
+1444805629 c:\users\travis\desktop\projects\physics engine\centity.h
+	<vector>
+	<cmath>
+	"CCamera.h"
+	"CFPS.h"
+	"CAnimation.h"
+	"CSurface.h"
+	"vector2d.h"
+	"CContact.h"
+
+1419805262 c:\users\travis\desktop\projects\physics engine\carea.h
+	"CMap.h"
+
+1419805262 c:\users\travis\desktop\projects\physics engine\cmap.h
+	<SDL.h>
+	<vector>
+	"CTile.h"
+	"CSurface.h"
+
+1418588912 c:\users\travis\desktop\projects\physics engine\ctile.h
+	"Define.h"
+
+1429242478 c:\users\travis\desktop\projects\physics engine\ccamera.h
+	<SDL.h>
+	"Define.h"
+
+1419809571 c:\users\travis\desktop\projects\physics engine\cfps.h
+	<SDL.h>
+
+1420069464 c:\users\travis\desktop\projects\physics engine\cplayer.h
+	"CEntity.h"
+
+1429243531 source:c:\users\travis\desktop\projects\physics engine\capp_oncleanup.cpp
+	"CApp.h"
+
+1429242400 source:c:\users\travis\desktop\projects\physics engine\capp_onevent.cpp
+	"CApp.h"
+
+1444805562 source:c:\users\travis\desktop\projects\physics engine\capp_oninit.cpp
+	"CApp.h"
+
+1426025940 c:\users\travis\desktop\projects\physics engine\centitycol.h
+	"CEntity.h"
+
+1444806029 source:c:\users\travis\desktop\projects\physics engine\capp_onloop.cpp
+	"CApp.h"
+
+1429503623 source:c:\users\travis\desktop\projects\physics engine\capp_onrender.cpp
+	"CApp.h"
+
+1419805262 source:c:\users\travis\desktop\projects\physics engine\carea.cpp
+	"CArea.h"
+
+1419973274 source:c:\users\travis\desktop\projects\physics engine\ccamera.cpp
+	"CCamera.h"
+
+1444805790 source:c:\users\travis\desktop\projects\physics engine\centity.cpp
+	"CEntity.h"
+	"CContact.h"
+
+1420066974 source:c:\users\travis\desktop\projects\physics engine\centitycol.cpp
+	"CEntity.h"
+	"CEntityCol.h"
+	<cmath>
+
+1416601176 source:c:\users\travis\desktop\projects\physics engine\cevent.cpp
+	"CEvent.h"
+
+1419809537 source:c:\users\travis\desktop\projects\physics engine\cfps.cpp
+	"CFPS.h"
+
+1419805262 source:c:\users\travis\desktop\projects\physics engine\cmap.cpp
+	"CMap.h"
+
+1420070589 source:c:\users\travis\desktop\projects\physics engine\cplayer.cpp
+	"CPlayer.h"
+
+1420066375 source:c:\users\travis\desktop\projects\physics engine\cshell.cpp
+	"CEntity.h"
+
+1418583985 source:c:\users\travis\desktop\projects\physics engine\csurface.cpp
+	"CSurface.h"
+
+1418588912 source:c:\users\travis\desktop\projects\physics engine\ctile.cpp
+	"CTile.h"
+
+1426042757 c:\users\travis\desktop\projects\physics engine\ccolshape.h
+	"CEntity.h"
+	"vector2d.h"
+
+1427137466 c:\users\travis\desktop\projects\physics engine\vector2d.h
+
+1429244207 c:\users\travis\desktop\projects\physics engine\ccontact.h
+	"CEntity.h"
+
+1429245324 source:c:\users\travis\desktop\projects\physics engine\ccontact.cpp
+	"CEntity.h"
+	"CContact.h"
+	<cmath>
+
+1429243962 source:c:\users\travis\desktop\projects\physics engine\vector2.cpp
+	"vector2d.h"
+	<cmath>
+
